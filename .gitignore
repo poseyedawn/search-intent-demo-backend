@@ -1,5 +1,7 @@
 venv/
+frontend/
+data/
 __pycache__/
 *.pyc
-data/
+npm-debug.log
 node_modules/
